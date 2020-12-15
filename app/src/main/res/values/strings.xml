@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="sensor_text_humidity">Humidity:</string>
+    <string name="sensor_text_light">Light:</string>
+    <string name="sensor_text_pressure">Pressure:</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="higher">Higher</string>
+    <string name="lower">Lower</string>
+    <string name="average">Average</string>
+    <string name="data">Graphique</string>
+    <string name="calculer">Calculer</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783185192632",
+    "project_id": "final-app-wear-2",
+    "storage_bucket": "final-app-wear-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783185192632:android:204ac3b0876cf98e59f64d",
+        "android_client_info": {
+          "package_name": "com.rubenramos.final_wear_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783185192632-un483dcg09v3i1s2sl0ip15bf5spp7di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rubenramos.final_wear_app",
+            "certificate_hash": "a99d5548e5739c2da50b1d771e92005f683cc37b"
+          }
+        },
+        {
+          "client_id": "783185192632-v734cn3qe74f3psafkvttgvnnr58pur3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0Mvc9MFtmFob7jogqCKH2QMbGA7MvlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783185192632-v734cn3qe74f3psafkvttgvnnr58pur3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
